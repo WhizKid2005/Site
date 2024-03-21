@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: linear-gradient(90deg, #4169E1 10%, rgba(0,212,255,1)100%);
+}
+.carousel-inner{
+    height: 670px;
+    background: #fff;
+    border-radius: 7px;
+    padding: 25px 25px;
+}
